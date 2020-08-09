@@ -1,5 +1,7 @@
 # VIRTEX by anker
 
+<img src="https://github.com/4NK3R-PRODUCT1ON/VIRTEX/blob/master/Screenshot_2020-08-09-07-34-35.png">
+
 $ pkg update && pkg upgrade
 
 $ pkg install git
